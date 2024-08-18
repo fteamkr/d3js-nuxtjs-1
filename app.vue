@@ -1,6 +1,4 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <!-- https://nuxt.com/docs/getting-started/views#pages -->
+  <NuxtPage />
 </template>
